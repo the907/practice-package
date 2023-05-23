@@ -1,6 +1,6 @@
 <?php
-namespace AdCrafters\WeightConversions\Tests;
 
+namespace AdCrafters\WeightConversions\Tests;
 
 class ExampleTest extends TestCase
 {
