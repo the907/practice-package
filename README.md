@@ -1,6 +1,3 @@
-
-[<img src="https://github-ads.s3.eu-central-1.amazonaws.com/support-ukraine.svg?t=1" />](https://supportukrainenow.org)
-
 # This is my package weightconversions
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/the907/weightconversions.svg?style=flat-square)](https://packagist.org/packages/the907/weightconversions)
