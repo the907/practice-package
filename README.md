@@ -1,11 +1,11 @@
 
 [<img src="https://github-ads.s3.eu-central-1.amazonaws.com/support-ukraine.svg?t=1" />](https://supportukrainenow.org)
 
-# :package_description
+# This is my package weightconversions
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/:vendor_slug/:package_slug.svg?style=flat-square)](https://packagist.org/packages/:vendor_slug/:package_slug)
-[![Tests](https://github.com/:vendor_slug/:package_slug/actions/workflows/run-tests.yml/badge.svg?branch=main)](https://github.com/:vendor_slug/:package_slug/actions/workflows/run-tests.yml)
-[![Total Downloads](https://img.shields.io/packagist/dt/:vendor_slug/:package_slug.svg?style=flat-square)](https://packagist.org/packages/:vendor_slug/:package_slug)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/the907/weightconversions.svg?style=flat-square)](https://packagist.org/packages/the907/weightconversions)
+[![Tests](https://github.com/the907/weightconversions/actions/workflows/run-tests.yml/badge.svg?branch=main)](https://github.com/the907/weightconversions/actions/workflows/run-tests.yml)
+[![Total Downloads](https://img.shields.io/packagist/dt/the907/weightconversions.svg?style=flat-square)](https://packagist.org/packages/the907/weightconversions)
 
 This is where your description should go. Try and limit it to a paragraph or two. Consider adding a small example.
 
@@ -16,14 +16,14 @@ This is where your description should go. Try and limit it to a paragraph or two
 You can install the package via composer:
 
 ```bash
-composer require :vendor_slug/:package_slug
+composer require the907/weightconversions
 ```
 
 ## Usage
 
 ```php
-$skeleton = new VendorName\Skeleton();
-echo $skeleton->echoPhrase('Hello, VendorName!');
+$skeleton = new AdCrafters\WeightConversions();
+echo $skeleton->echoPhrase('Hello, AdCrafters!');
 ```
 
 ## Testing
@@ -46,7 +46,7 @@ Please review [our security policy](../../security/policy) on how to report secu
 
 ## Credits
 
-- [:author_name](https://github.com/:author_username)
+- [Michael](https://github.com/the907)
 - [All Contributors](../../contributors)
 
 ## License
